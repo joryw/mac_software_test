@@ -13,7 +13,6 @@
 | [Rectangle](https://rectangleapp.com/)                     | 管理 | 窗口管理                   | 配合Moom使用    |
 | [iStat Menus](https://bjango.com/mac/istatmenus/)          | 视图 | 实时显示系统状态、网速等   |                 |
 | [Bartender](https://www.macbartender.com/)                 | 视图 | 自定义右上角 Menu 栏图标   |                 |
-
-
+| [Keyboard Maestro](http://www.keyboardmaestro.com/main/)   | 效率 | 定制键盘快捷操作           | 录制键盘动作    |
 
 https://github.com/hzlzh/Best-App
